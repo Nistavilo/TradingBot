@@ -1,0 +1,8 @@
+ccxt
+pandas
+numpy
+python-dotenv
+ta
+requests
+rich
+streamlit
